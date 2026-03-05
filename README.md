@@ -87,7 +87,7 @@ Push to `main` → Auto build, push, and deploy to EC2.
 
 ## Repository
 
-https://github.com/pavannani99/mean-crud-app
+https://github.com/ktejashmouli-beep/AI-Workout-and-Dietplanner
 
 ---
 
