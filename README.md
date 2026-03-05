@@ -23,8 +23,7 @@ Full-stack MEAN (MongoDB, Express, Angular, Node.js) application deployed on AWS
 ## Quick Start
 ```bash
 # Clone the repo
-git clone https://github.com/pavannani99/mean-crud-app.git
-cd mean-crud-app
+git clone https://github.com/ktejashmouli-beep/AI-Workout-and-Dietplanner
 
 # Deploy on EC2
 docker-compose up -d
